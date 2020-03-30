@@ -16,6 +16,8 @@
   "dependencies": {
     "purescript-arrays": "^4.0.0",
     "purescript-console": "^3.0.0",
+    "purescript-maybe": "4.0.1",
+    "purescript-foldable-traversable": "4.1.1",
     "purescript-math": "^2.0.0",
     "purescript-globals": "^3.0.0"
   },
