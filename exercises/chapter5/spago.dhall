@@ -8,6 +8,7 @@ You can edit this file as you like.
   , "effect"
   , "foldable-traversable"
   , "globals"
+  , "lists"
   , "math"
   , "maybe"
   , "psci-support"
